@@ -1,0 +1,24 @@
+"Phrases"
+{
+	"STEAM_1:0:102056826"
+	{
+		"en"			"[ADMIN]"
+	}
+	"STEAM_1:1:104818861"
+	{
+		"en"			"[Owner]"
+	}
+	"STEAM_0:0:10893229"
+	{
+		"en"			"[Owner]"
+	}
+	"STEAM_0:0:112363285"
+	{
+		"en"			"[Mapper]"
+	}
+	STEAM_0:0:49321000
+	{
+		"en"			"[STAFF-LEADER]"
+	}
+
+}
